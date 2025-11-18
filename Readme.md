@@ -1,4 +1,4 @@
-## Hey there! 👋
+#**Hey there!** 👋
 
 I'm **Agraj**, a Computer Science student based in India.
 
