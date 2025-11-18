@@ -1,4 +1,4 @@
-#**Hey there!** 👋
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I'm **Agraj**, a Computer Science student based in India.
 
@@ -15,9 +15,7 @@ I’ve been practicing problems on **Leetcode** and **Hackerrank**, and I often 
 
 If you want to connect, **my social links are available here!**
 
----
-
-### Fun Facts:
+#### Fun Facts:
 
 - I love to sketch and write  
 - I don’t like coffee or tea  
