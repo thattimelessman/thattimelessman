@@ -1,4 +1,4 @@
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif](https://emojis.slackmojis.com/emojis/images/1643514789/8036/icebear_wall_webare.png?1643514789" width="25"/>
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1643514789/8036/icebear_wall_webare.png" width="25"/>
 
 I'm **Agraj**, a Computer Science student based in India.
 
