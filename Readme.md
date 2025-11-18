@@ -22,4 +22,4 @@ If you want to connect, **my social links are available here!**
 - I love to sketch and write  
 - I don’t like coffee or tea  
 - *Suits* is my favorite webseries  
-- Hobbies: sketching, workout, building things
+- **Hobbies**: sketching, workout, building things
