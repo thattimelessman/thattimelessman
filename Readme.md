@@ -6,7 +6,7 @@ I design and build whatever I can imagine.
 
 If an idea pops into my head, chances are I'll build it and ship it.
 
-My main tech stack interests lie in **react**, **typescript**, and **tailwind**.
+My main tech stack interests lie in **React**, **Python**, and **JavaScript**.
 
 My favorite tools are **Notion**, **Claude**, and **GitHub**.
 
