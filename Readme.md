@@ -8,9 +8,9 @@ If an idea pops into my head, chances are I'll build it and ship it.
 
 My main tech stack interests lie in **React**, **Python**, and **JavaScript**.
 
-My favorite tools are **Notion**, **Claude**, and **GitHub**.
+My favorite tools are **Obsidian**, **Claude**, and **GitHub**.
 
-I'm currently focusing on learning **Java** & **Python**.
+I'm currently focusing on optimizing code with **DSA** & **Python**.
 
 I’ve been practicing problems on **Leetcode** and **Hackerrank**, and I often post the solutions here.
 
