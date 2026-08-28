@@ -22,3 +22,6 @@ If you want to connect, **my social links are available here!**
 - I don’t like coffee or tea  
 - *Suits* is my favorite webseries  
 - **Hobbies**: sketching, workout, building things
+
+- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=thattimelessman)
+
